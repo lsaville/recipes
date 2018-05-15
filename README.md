@@ -8,3 +8,4 @@ Collection of recipes
 * [Jose Carillo's Breakfast Burritos](/recipes/jose-carillos-breakfast-burritos.md)
 * [Trader Joe's Breakfast Casserole](/recipes/trader-joes-breakfast-casserole.md)
 * [Urvashi Pitre's Instant Pot Butter Chicken](/recipes/urvashi-pitre-instant-pot-butter-chicken.md)
+* [Vegan Cream of Mushroom Soup](/recipes/vegan-cream-of-mushroom-soup.md)
