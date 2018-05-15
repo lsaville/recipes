@@ -35,3 +35,7 @@ Serves four.
 7. Add the chicken back to the sauce. Preheat the Instant Pot by selecting Sauté and adjust to Less for low heat. Let the chicken heat through. Break it up into smaller pieces, if you like, but don’t shred it.
 
 8. Serve over rice or raw cucumber noodles.
+
+#### Attribution
+
+Urvashi Pitre

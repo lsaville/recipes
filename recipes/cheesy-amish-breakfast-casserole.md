@@ -18,6 +18,6 @@
 4. Transfer bacon and onion to a large bowl. Stir in eggs, cheddar cheese, cottage cheese, and Swiss cheese. Pour mixture into prepared baking dish.
 5. Bake in preheated oven until eggs are set and cheese is melted, 45 to 50 minutes. Let stand 10 minutes before cutting and serving.
 
-#### Attributions
+#### Attribution
 
 Ronnie Guidry (not Amish)

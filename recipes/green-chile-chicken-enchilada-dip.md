@@ -21,6 +21,6 @@
 5. Top with remaining cheese and stick it under the broiler until the cheese is lightly browned
 6. Serve with chips, crackers, or vegetables
 
-#### Contributions
+#### Attribution
 
-c/o Ronnie Guidry
+Ronnie Guidry
