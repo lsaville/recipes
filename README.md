@@ -2,4 +2,4 @@
 
 Collection of recipes
 
-[link](../recipes/cheesy-amish-breakfast-casserole.md)
+[link](/recipes/cheesy-amish-breakfast-casserole.md)
