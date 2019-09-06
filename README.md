@@ -9,3 +9,4 @@ Collection of recipes
 * [Trader Joe's Breakfast Casserole](/recipes/trader-joes-breakfast-casserole.md)
 * [Urvashi Pitre's Instant Pot Butter Chicken](/recipes/urvashi-pitre-instant-pot-butter-chicken.md)
 * [Vegan Cream of Mushroom Soup](/recipes/vegan-cream-of-mushroom-soup.md)
+* [Pork Potstickers](/recipes/pork-potstickers.md)
