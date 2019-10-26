@@ -11,3 +11,4 @@ Collection of recipes
 * [Vegan Cream of Mushroom Soup](/recipes/vegan-cream-of-mushroom-soup.md)
 * [Pork Potstickers](/recipes/pork-potstickers.md)
 * [Comforting Beef Barley Soup (Instant Pot)](/recipes/beef-barley-soup.md)
+* [Instant Pot Creamy Mushroom Wild Rice Soup](/recipes/instant-pot-wild-rice-soup.md)
